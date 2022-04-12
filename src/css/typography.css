@@ -1,0 +1,46 @@
+._h2 {
+    font-family: 'Next Art';
+    font-weight: 500;
+    font-size: 2.500vw;
+    line-height: 120%;
+}
+
+._h3 {
+    font-family: 'Next Art';
+    font-weight: 500;
+    font-size: 1.875vw;
+    line-height: 120%;
+}
+
+._main-400 {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    font-size: 0.938vw;
+}
+
+._main-500 {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+    font-size: 0.938vw;
+}
+
+._big-main-400 {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    font-size: 1.146vw;
+    line-height: 120%;
+}
+
+._big-main-500 {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+    font-size: 1.146vw;
+    line-height: 120%;
+}
+
+._big-main-700 {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    font-size: 1.146vw;
+    line-height: 120%;
+}

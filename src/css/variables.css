@@ -1,0 +1,13 @@
+:root {
+    --primary: #363C50;
+    --secondary: #2C3040;
+    --secondary-10: rgba(44, 48, 64, 0.1);
+    --main: #4CADDD;
+    --main-50: rgba(76, 173, 221, 0.5);
+    --background: #ECECEC;
+    --on-background: #000000;
+    --on-background-50: rgba(0, 0, 0, 0.5);
+    --background-50: rgba(255, 255, 255, 0.5);
+    --on-pm-and-sc: #ffffff;
+    --on-pm-and-sc-50: rgba(255, 255, 255, 0.5);
+}
